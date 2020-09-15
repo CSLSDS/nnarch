@@ -2,3 +2,7 @@
 # Sprint 3 (Major Neural Network Architectures)
 
 
+
+# no lecture Tue/Mod2 - watch DS16 recorded lecture
+
+
