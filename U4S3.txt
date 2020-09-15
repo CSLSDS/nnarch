@@ -8,12 +8,19 @@
 # consider 8 directions for autodidactification
 
 1. SQL
+	
 2. db mgmt
+	
 3. flask
+	
 4. data structures
-5. NLP
-6. CNN
-7. GAN
+	
+5. NLP	
+	
+6. CNN	
+	
+7. GAN	
+	
 8. stats
-
+	
 
