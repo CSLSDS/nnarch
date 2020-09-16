@@ -23,4 +23,15 @@
 	
 8. stats
 	
+# Wed review - consider ways to augment prior projects
+# 	create issue tickets for the project based on improvements to implement
 
+1. EDA/viz project - peace and conflict research
+
+2. differentiating galaxies from stars and quasars - how do we id QSOs?
+
+3. null
+
+4. tbd
+
+ 
