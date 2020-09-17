@@ -1,7 +1,8 @@
 # Unit 4 (Machine Learning)
-# Sprint 3 (Major Neural Network Architectures)
-
-
+#   Sprint 3 (Major Neural Network Architectures)
+#	Mod1 - RNN & LSTM
+#	Mod2 - CNN
+#	Mod3 - AutoEncoding/Recommendation Systems
 
 # no lecture Tue/Mod2 - watch DS16 recorded lecture
 
